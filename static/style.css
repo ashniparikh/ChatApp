@@ -1,0 +1,31 @@
+.p-signin_form__aubergine_button {
+    color: #fff;
+    background-color: #4a154b;
+    border: none;
+    align-self: flex-start;
+}
+
+.margin_bottom_150 {
+    margin-bottom: 24px;
+}
+
+.full_width {
+    width: 100%;
+    max-width: 100%;
+}
+
+.c-button--large {
+    font-size: 18px;
+    font-weight: 900;
+    height: 44px;
+    min-width: 96px;
+    padding: 0 16px 3px;
+}
+
+.c-button--primary {
+    transition: all 80ms linear;
+    background: #007a5a;
+    color: #fff;
+    font-weight: 900;
+    box-shadow: none;
+}
